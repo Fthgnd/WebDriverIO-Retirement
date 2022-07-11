@@ -1,0 +1,23 @@
+{
+    "url" : "https://www.securian.com/insights-tools/retirement-calculator.html",
+    "Fields" : {
+        "currentAge" : 40,
+        "retirementAge" : 68,
+        "currenIncome" : "100000",
+        "spouseAnnualIncome" : "75000",
+        "currenRetirementSavings" : 500000,
+        "currenRetirementContribution" : 10,
+        "annualRetirementContribution" : 0.25,
+        "socialSecurityIncome" : "Yes",
+        "relationshipStatus" : "Married",
+        "socialSecurityOverride" : 4000,
+        "additionalIncome" : 500,
+        "retirementYearsNeedToLast" : 20,
+        "postRetirementIncome" : "Yes",
+        "percentOfFinalIncomeDesired" : 75,
+        "preRetirementInvestmentReturn" : 8,
+        "postRetirementInvestmentReturn" : 5,
+        "retirementYears" : 3
+    }
+
+}
